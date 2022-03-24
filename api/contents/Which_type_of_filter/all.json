@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.417427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": "text/x-python",
+      "name": "Which_type_of_filter_utils.py",
+      "path": "Which_type_of_filter/Which_type_of_filter_utils.py",
+      "size": 33567,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.413427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": null,
+      "name": "Which_type_of_filter.ipynb",
+      "path": "Which_type_of_filter/Which_type_of_filter.ipynb",
+      "size": 9793,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.417427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.417427Z",
+  "mimetype": null,
+  "name": "Which_type_of_filter",
+  "path": "Which_type_of_filter",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

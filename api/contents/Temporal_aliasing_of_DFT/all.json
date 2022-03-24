@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Temporal_aliasing_of_DFT_utils.py",
+      "path": "Temporal_aliasing_of_DFT/Temporal_aliasing_of_DFT_utils.py",
+      "size": 6432,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Signal_Operator_Library.py",
+      "path": "Temporal_aliasing_of_DFT/Signal_Operator_Library.py",
+      "size": 14727,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Temporal_aliasing_of_DFT.ipynb",
+      "path": "Temporal_aliasing_of_DFT/Temporal_aliasing_of_DFT.ipynb",
+      "size": 2007,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.409427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.409427Z",
+  "mimetype": null,
+  "name": "Temporal_aliasing_of_DFT",
+  "path": "Temporal_aliasing_of_DFT",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

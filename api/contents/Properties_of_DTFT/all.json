@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Properties_of_DTFT_utils.py",
+      "path": "Properties_of_DTFT/Properties_of_DTFT_utils.py",
+      "size": 16328,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Properties_of_DTFT.ipynb",
+      "path": "Properties_of_DTFT/Properties_of_DTFT.ipynb",
+      "size": 1343,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Signal_Operator_Library.py",
+      "path": "Properties_of_DTFT/Signal_Operator_Library.py",
+      "size": 14727,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.405427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.405427Z",
+  "mimetype": null,
+  "name": "Properties_of_DTFT",
+  "path": "Properties_of_DTFT",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

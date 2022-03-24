@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.393426Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.821248Z",
+      "mimetype": "audio/x-wav",
+      "name": "Sample.wav",
+      "path": "Echo_cancellation/Sample.wav",
+      "size": 925824,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.393426Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.817248Z",
+      "mimetype": "text/x-python",
+      "name": "Echo_cancellation_utils.py",
+      "path": "Echo_cancellation/Echo_cancellation_utils.py",
+      "size": 6985,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.393426Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.817248Z",
+      "mimetype": null,
+      "name": "Echo_cancellation.ipynb",
+      "path": "Echo_cancellation/Echo_cancellation.ipynb",
+      "size": 998116,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.393426Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.393426Z",
+  "mimetype": null,
+  "name": "Echo_cancellation",
+  "path": "Echo_cancellation",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

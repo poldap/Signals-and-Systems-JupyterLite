@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.397427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.825248Z",
+      "mimetype": "image/png",
+      "name": "slide_11-6.png",
+      "path": "FFT_Computation_by_blocks/images/slide_11-6.png",
+      "size": 96504,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.397427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.821248Z",
+      "mimetype": "image/png",
+      "name": "slide_11-5.png",
+      "path": "FFT_Computation_by_blocks/images/slide_11-5.png",
+      "size": 125154,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.397427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.397427Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "FFT_Computation_by_blocks/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

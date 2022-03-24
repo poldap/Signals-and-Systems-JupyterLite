@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.401427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:10:01.401427Z",
+      "mimetype": null,
+      "name": "images",
+      "path": "FFT_Convolution_Zero_Padding/images",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.401427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.829249Z",
+      "mimetype": "text/x-python",
+      "name": "FFT_Convolution_Zero_Padding_utils.py",
+      "path": "FFT_Convolution_Zero_Padding/FFT_Convolution_Zero_Padding_utils.py",
+      "size": 5565,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.397427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.829249Z",
+      "mimetype": null,
+      "name": "FFT_Convolution_Zero_Padding.ipynb",
+      "path": "FFT_Convolution_Zero_Padding/FFT_Convolution_Zero_Padding.ipynb",
+      "size": 596809,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.401427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.401427Z",
+  "mimetype": null,
+  "name": "FFT_Convolution_Zero_Padding",
+  "path": "FFT_Convolution_Zero_Padding",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

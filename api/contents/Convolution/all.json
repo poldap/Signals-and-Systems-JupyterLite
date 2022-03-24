@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.389426Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.809248Z",
+      "mimetype": null,
+      "name": "Convolution.ipynb",
+      "path": "Convolution/Convolution.ipynb",
+      "size": 1356,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.389426Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.809248Z",
+      "mimetype": "text/x-python",
+      "name": "Convolution_utils.py",
+      "path": "Convolution/Convolution_utils.py",
+      "size": 10271,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.389426Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.389426Z",
+  "mimetype": null,
+  "name": "Convolution",
+  "path": "Convolution",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

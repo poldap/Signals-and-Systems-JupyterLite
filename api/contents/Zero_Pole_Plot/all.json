@@ -1,0 +1,61 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.417427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": "text/x-python",
+      "name": "Zero_Pole_Plot_Discrete_utils.py",
+      "path": "Zero_Pole_Plot/Zero_Pole_Plot_Discrete_utils.py",
+      "size": 28475,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.417427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": null,
+      "name": "Zero_Pole_Plot_Discrete.ipynb",
+      "path": "Zero_Pole_Plot/Zero_Pole_Plot_Discrete.ipynb",
+      "size": 1287,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.417427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": null,
+      "name": "Zero_Pole_Plot_Continuous.ipynb",
+      "path": "Zero_Pole_Plot/Zero_Pole_Plot_Continuous.ipynb",
+      "size": 1276,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.417427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": "text/x-python",
+      "name": "Zero_Pole_Plot_Continuous_utils.py",
+      "path": "Zero_Pole_Plot/Zero_Pole_Plot_Continuous_utils.py",
+      "size": 28281,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.417427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.417427Z",
+  "mimetype": null,
+  "name": "Zero_Pole_Plot",
+  "path": "Zero_Pole_Plot",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.401427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.829249Z",
+      "mimetype": null,
+      "name": "Linear_Phase_Filters.ipynb",
+      "path": "Linear_Phase_Filters/Linear_Phase_Filters.ipynb",
+      "size": 210295,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "audio/x-wav",
+      "name": "piano.wav",
+      "path": "Linear_Phase_Filters/piano.wav",
+      "size": 65580,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.829249Z",
+      "mimetype": "text/x-python",
+      "name": "Linear_Phase_Filters_utils.py",
+      "path": "Linear_Phase_Filters/Linear_Phase_Filters_utils.py",
+      "size": 24966,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.405427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.405427Z",
+  "mimetype": null,
+  "name": "Linear_Phase_Filters",
+  "path": "Linear_Phase_Filters",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

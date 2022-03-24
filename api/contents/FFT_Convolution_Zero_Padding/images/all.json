@@ -1,0 +1,25 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.401427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.829249Z",
+      "mimetype": "image/png",
+      "name": "pixelart.png",
+      "path": "FFT_Convolution_Zero_Padding/images/pixelart.png",
+      "size": 149765,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.401427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.401427Z",
+  "mimetype": null,
+  "name": "images",
+  "path": "FFT_Convolution_Zero_Padding/images",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

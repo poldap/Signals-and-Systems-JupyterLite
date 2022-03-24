@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Recursive_filtering_utils.py",
+      "path": "Recursive_filtering/Recursive_filtering_utils.py",
+      "size": 10590,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Recursive_filtering.ipynb",
+      "path": "Recursive_filtering/Recursive_filtering.ipynb",
+      "size": 1374,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.405427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.405427Z",
+  "mimetype": null,
+  "name": "Recursive_filtering",
+  "path": "Recursive_filtering",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

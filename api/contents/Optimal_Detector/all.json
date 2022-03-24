@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Optimal_Detector.ipynb",
+      "path": "Optimal_Detector/Optimal_Detector.ipynb",
+      "size": 9206,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "exercise_utils.py",
+      "path": "Optimal_Detector/exercise_utils.py",
+      "size": 1711,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.405427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Optimal_Detector_utils.py",
+      "path": "Optimal_Detector/Optimal_Detector_utils.py",
+      "size": 6611,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.405427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.405427Z",
+  "mimetype": null,
+  "name": "Optimal_Detector",
+  "path": "Optimal_Detector",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

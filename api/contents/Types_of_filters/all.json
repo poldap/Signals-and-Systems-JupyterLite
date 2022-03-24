@@ -1,0 +1,49 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.413427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.845249Z",
+      "mimetype": "audio/x-wav",
+      "name": "audiofile.wav",
+      "path": "Types_of_filters/audiofile.wav",
+      "size": 1764380,
+      "type": "file",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Types_of_filters.ipynb",
+      "path": "Types_of_filters/Types_of_filters.ipynb",
+      "size": 1292,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Types_of_filters_utils.py",
+      "path": "Types_of_filters/Types_of_filters_utils.py",
+      "size": 8619,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.409427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.409427Z",
+  "mimetype": null,
+  "name": "Types_of_filters",
+  "path": "Types_of_filters",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

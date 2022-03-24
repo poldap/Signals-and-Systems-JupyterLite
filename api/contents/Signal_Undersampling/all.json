@@ -1,0 +1,37 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": null,
+      "name": "Signal_Undersampling.ipynb",
+      "path": "Signal_Undersampling/Signal_Undersampling.ipynb",
+      "size": 1299,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2022-03-24T23:10:01.409427Z",
+      "format": null,
+      "last_modified": "2022-03-24T23:09:26.833249Z",
+      "mimetype": "text/x-python",
+      "name": "Signal_Undersampling_utils.py",
+      "path": "Signal_Undersampling/Signal_Undersampling_utils.py",
+      "size": 6818,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2022-03-24T23:10:01.409427Z",
+  "format": "json",
+  "last_modified": "2022-03-24T23:10:01.409427Z",
+  "mimetype": null,
+  "name": "Signal_Undersampling",
+  "path": "Signal_Undersampling",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
